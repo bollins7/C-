@@ -11,8 +11,18 @@ class Program
 
         int y = 321; //declaration + initialization
 
+        bool alive = false; //true or false
+        char symbol = '@';
+        String name = "Chris";
+
         Console.WriteLine(x);
         Console.WriteLine(y);
+        Console.WriteLine("Your symbol is: " + symbol);
+        Console.WriteLine("Are you alive? " + alive);
+
+        String userName = symbol + name;
+
+        Console.WriteLine("Your username is: " + name);
         }  
     }
 }
