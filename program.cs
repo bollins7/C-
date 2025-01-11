@@ -1,4 +1,4 @@
-﻿using System;
+﻿/* using System;
 
 namespace MyFirstProgram
 {
@@ -10,6 +10,11 @@ namespace MyFirstProgram
         {
             Console.WriteLine("I like pizza!");
             Console.Beep();
+
+            //This is a comment
+
+            Console.WriteLine("Chris\nCollins");
         }
     }
 }
+*/
